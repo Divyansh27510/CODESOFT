@@ -10,7 +10,7 @@
 
 ### Task 1 – Number Guessing Game
 A simple game where the computer generates a random number and the user tries to guess it.  
-👉 [View Code](./Task_1_Number_guessing)
+👉 [https://github.com/Divyansh27510/CODESOFT/commit/58e1a128bd1d9875c84032d44aae962c599af886#diff-41552008e89e6707](./Task_1_Number_guessing)
 
 ---
 
